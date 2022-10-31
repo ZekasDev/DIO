@@ -1,1 +1,1 @@
-Repositório Master dos Desafios realizados no Bootcamp ORANGE TECH +
+Repositório Principal para entrega dos desafios realizados no Bootcamp ORANGE TECH +
